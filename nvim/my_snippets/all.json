@@ -1,0 +1,20 @@
+{
+	"hello": 
+	{
+		"prefix": "hello",
+		"body": 
+		[
+			"hello"
+		]
+	},
+	"snip2": 
+	{
+		"prefix": "all2",
+		"body": 
+		[
+			"multi $1",
+			"line $2",
+			"snippet$0"
+		]
+	}
+}
