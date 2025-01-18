@@ -1,0 +1,21 @@
+[window]
+opacity = 0.50
+
+
+[font]
+normal = { family = "Terminus", style = "Regular" }
+bold = { family = "Terminus", style = "Bold"}
+italic = { family = "Terminus", style = "Italic"}
+bold_italic = { family = "Terminus", style = "Bold Italic"}
+
+
+[cursor]
+style = { shape = "Beam", blinking = "Off"}
+vi_mode_style = { shape = "Beam", blinking = "Off"}
+
+
+[terminal]
+shell = "/usr/bin/zsh" 
+osc52= "CopyPaste"
+
+
