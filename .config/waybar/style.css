@@ -169,3 +169,8 @@ tooltip {
     padding: 0px 5px;
     transition: all .3s ease; 
 }
+
+#pulseaudio {
+    padding: 0px 5px;
+    transition: all .3s ease; 
+}
