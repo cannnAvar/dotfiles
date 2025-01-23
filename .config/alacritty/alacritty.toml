@@ -16,6 +16,6 @@ vi_mode_style = { shape = "Beam", blinking = "Off"}
 
 [terminal]
 shell = "/usr/bin/zsh" 
-osc52= "CopyPaste"
+osc52= "OnlyPaste"
 
 
